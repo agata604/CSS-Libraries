@@ -1,0 +1,7 @@
+:root {
+  --board-bg-color: paleturquoise;
+}
+
+#board {
+  fill: var(--board-bg-color);
+}
