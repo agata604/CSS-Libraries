@@ -118,11 +118,11 @@
 }
 
 .vc-switch-label:before {
-  right: var(--vc-label-position-off);;
+  right: var(--vc-label-position-off);
 }
 
 .vc-switch-label:after {
-  left: var(--vc-label-position-on);;
+  left: var(--vc-label-position-on);
 }
 
 .vc-switch-input:checked ~ .vc-switch-label {
